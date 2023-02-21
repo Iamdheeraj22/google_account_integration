@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124038855642",
+    "firebase_url": "https://integration-ffdd7-default-rtdb.firebaseio.com",
+    "project_id": "integration-ffdd7",
+    "storage_bucket": "integration-ffdd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124038855642:android:ceefde282cce6e90685ee3",
+        "android_client_info": {
+          "package_name": "com.unknowncoder.google_account_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124038855642-nok3ec6bb1asjs4c1rbma0lr2js8a4cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeiyqk0Elg9KJYFCgSEjutm8qw_TGxhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124038855642-nok3ec6bb1asjs4c1rbma0lr2js8a4cb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124038855642-77lhq9aqv39c1dpn94k8kvethc7mhlia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unkowncoder.googleIntegration"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
