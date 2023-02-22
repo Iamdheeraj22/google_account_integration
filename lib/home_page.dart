@@ -24,6 +24,10 @@ class _MyHomePageState extends State<MyHomePage> {
                   onPressed: () async {
                     try {
                       var user = await signInWithGoogle();
+                      log('additionalUserInfo ${user.additionalUserInfo.toString()}');
+                      log('credential ${user.credential.toString()}');
+                      log('additionalUserInfo ${user.user.toString()}');
+
                       // ignore: use_build_context_synchronously
                       Navigator.push(
                           context,
